@@ -1,5 +1,5 @@
 # EstoqDesktop  
-Esse projeto usa a api ( https://github.com/NhanderuData/Supplier-API ) pra utilizar os metados scrum, tenha ele rodando pra ele funcionar 
+Esse projeto usa a api ( https://github.com/NhanderuData/Supplier-API ) pra utilizar os metados scrum, tenha ele rodando pra a aplicação funcionar localmente  
 ## 💻 Tecnologias Utilizadas  
 
 - Java 17+  
