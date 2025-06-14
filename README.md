@@ -1,4 +1,13 @@
 # EstoqDesktop  
+## 💻 Tecnologias Utilizadas  
+
+- Java 17+  
+- JavaFX  
+- Maven  
+- IntelliJ IDEA  
+- FXML (FXML Loader)  
+- Padrão MVC
+  
 ## Estrutura  
 ├── .idea/                                      
 ├── .mvn/wrapper/                              
