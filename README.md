@@ -1,5 +1,5 @@
 # EstoqDesktop
-Aplicação desktop para gestão de estoque que utiliza a Supplier-API como backend.
+Aplicação desktop para gestão de estoque que utiliza a Supplier-API(https://github.com/NhanderuData/Supplier-API) como backend.
 
 Certifique-se de que a API esteja rodando localmente para que o sistema funcione corretamente.
 
