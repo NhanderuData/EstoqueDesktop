@@ -1,15 +1,20 @@
-# EstoqDesktop  
-Esse projeto usa a api ( https://github.com/NhanderuData/Supplier-API ) pra utilizar os metados scrum, tenha ele rodando pra a aplicação funcionar localmente  
-## 💻 Tecnologias Utilizadas  
+🧾 EstoqDesktop
+Aplicação desktop para gestão de estoque que utiliza a Supplier-API como backend.
 
-- Java 17+  
-- JavaFX  
-- Maven  
-- IntelliJ IDEA  
-- FXML (FXML Loader)  
-- Padrão MVC
-  
-## Estrutura  
+Certifique-se de que a API esteja rodando localmente para que o sistema funcione corretamente.
+
+💻 Tecnologias Utilizadas
+Java 17+  
+JavaFX  
+FXML (FXML Loader)
+Maven
+IntelliJ IDEA
+Padrão de projeto MVC
+
+📁 Estrutura do Projeto
+pgsql
+Copiar
+Editar
 ├── .idea/                                      
 ├── .mvn/wrapper/                              
 ├── src/  
